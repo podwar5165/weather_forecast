@@ -8,10 +8,10 @@
 - Сохраняется история поиска, которая доступно по апи
 
 В проекте используется
-Bootstrap
-Django
-DRF
-Docker
+Bootstrap,
+Django,
+DRF,
+Docker,
 Docker Compose
 
 Чтобы запустить проект необходимо установить Docker
